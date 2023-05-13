@@ -1,0 +1,10 @@
+{
+"status" : "success",
+"data" : [{
+"id" :"001",
+"empname":"Check1",
+"empsalary": 12999,
+"empage":50,
+"empbloodgroup":"O+"}
+]
+}
